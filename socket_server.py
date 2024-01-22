@@ -1,5 +1,4 @@
 import socket
-
 def main():
     host = socket.gethostname()
     port = 5000
